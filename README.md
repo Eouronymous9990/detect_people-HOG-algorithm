@@ -1,0 +1,1 @@
+# detect_people-HOG-algorithm
